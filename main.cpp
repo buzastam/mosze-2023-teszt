@@ -28,6 +28,7 @@ int main()
     cout << "Atlag: " << atlag << endl;
 
     cout << "szép munka";
+    std::cout << "ez igen!" << std::endl;
 
     return 0;
 }
