@@ -27,5 +27,7 @@ int main()
     atlag /= N_ELEMENTS; 
     cout << "Atlag: " << atlag << endl;
 
+    cout << "szép munka";
+
     return 0;
 }
